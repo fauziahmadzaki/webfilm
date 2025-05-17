@@ -1,5 +1,5 @@
 const apiKey = "33560a1d"
-const url = `http://www.omdbapi.com/?apikey=${apiKey}&`;
+const url = `https://www.omdbapi.com/?apikey=${apiKey}&`;
 const container = document.getElementById('container');
 const searchBox = document.getElementById('search-btn');
 const inputBox = document.getElementById('input-box');
